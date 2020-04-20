@@ -1,0 +1,6 @@
+Calculating metrics for belohorizonte-server ...
+Input Variables
+Number of Clusters (k) : 1
+Seed : 1
+Iterations : 100
+
